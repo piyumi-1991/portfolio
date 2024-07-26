@@ -1,2 +1,2 @@
-# portfolio
-portfolio using HTML, css, js
+# Portfolio
+Portfolio using HTML, CSS, JavaScript
